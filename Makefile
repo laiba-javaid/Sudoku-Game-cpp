@@ -1,4 +1,4 @@
-## Dominic-github (https://github.com/Dominic-github)
+
 
 file = ./build/main
 ifdef OS

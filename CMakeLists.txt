@@ -1,4 +1,4 @@
-## Dominic-github (https://github.com/Dominic-github)
+
 
 # This is a minimal CMakeLists file which includes the Yoctopuce C++ lib.
 cmake_minimum_required(VERSION 3.16)
